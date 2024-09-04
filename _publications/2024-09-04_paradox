@@ -1,0 +1,10 @@
+---
+title: "Epidemic paradox induced by awareness driven network dynamics"
+collection: publications
+link: https://arxiv.org/abs/2409.01384
+excerpt: 'We study stationary epidemic processes in scale-free networks with local awareness behavior adopted by only infected or all nodes, and paradoxically, we find and prove that the former scenario results in a smaller infection while more nodes can be aware in the latter.'
+date: 2024-09-04
+authors: 'Csegő Balázs Kolok, Gergely Ódor, Dániel Keliger, Márton Karsai'
+venue: 'arxiv'
+image: 'paradox.png'
+---
