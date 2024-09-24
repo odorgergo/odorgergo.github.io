@@ -19,7 +19,7 @@ I am worked on [Awareness Modelling in Epidemics](https://data.snf.ch/grants/gra
 **PhD Thesis**
 
 
-My thesis was on the source idenitfication problem; the goal is to design efficient algorithms that find the first infected individual (also called patient zero) during an epidemic, based on sparse measurements about who got infected and when. I was fortunate to be advised by [Patrick Thiran](https://people.epfl.ch/patrick.thiran?lang=en).
+My thesis was on the source idenitfication problem; the goal is to design efficient algorithms that find the first infected individual (also called patient zero) during an epidemic, based on sparse measurements about who got infected and when. I was fortunate to be advised by [Patrick Thiran](https://people.epfl.ch/patrick.thiran?lang=en) at EPFL.
 
 On the algorithmic side, I have worked on rigorously quantifying the role of adaptivity in source identification: the difference between the problem settings when the measurements are chosen adaptively vs non-adaptively. If the epidemic spreads very aggressively, the theoretical analysis ([\[1\]](https://doi.org/10.1016/j.ejc.2021.103317) and [\[2\]](https://doi.org/10.1017/jpr.2021.16)) becomes equivalent to adaptive and non-adaptive versions of the metric dimension from the combinatorics literature. If the epidemic is less aggressive, then there is more stochasticity in the problem, making the analysis more challenging [\[3\]](https://doi.org/10.1016/j.tcs.2022.02.008). Interestingly, in some cases adaptivity only plays a small role [\[1\]](https://doi.org/10.1016/j.ejc.2021.103317), whereas in others, its role is very substantial [\[3\]](https://doi.org/10.1016/j.tcs.2022.02.008).
 
