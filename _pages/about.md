@@ -10,14 +10,14 @@ redirect_from:
 
 I am broadly interested in network science and computational epidemiology, with a special focus on wasterwater-based epidemiology. As of September 2024, I am a FWF-funded Cluster of Excellence: ["Microbiomes Drive Planetary Health”](https://microplanet.at/) postdoc at the [Bergthaler Lab](https://bergthalerlab.org/).
 
-SNSF Postdoc Mobility Fellow
-=
+**SNSF Postdoc Mobility Fellow**
+
 
 I am worked on [Awareness Modelling in Epidemics](https://data.snf.ch/grants/grant/211129) as an SNSF Postdoc Mobility Fellow hosted by [Marton Karsai](https://martonkarsai.com/) at DNDS CEU, Vienna. Recent manuscripts on this topic include a genetic data-driven ([\[1\]](https://arxiv.org/abs/2406.09983) and a network theoretic ([\[2\]](https://arxiv.org/abs/2409.01384) approach.
 
 
-PhD Thesis
-======
+**PhD Thesis**
+
 
 My thesis was on the source idenitfication problem; the goal is to design efficient algorithms that find the first infected individual (also called patient zero) during an epidemic, based on sparse measurements about who got infected and when. I was fortunate to be advised by [Patrick Thiran](https://people.epfl.ch/patrick.thiran?lang=en).
 
