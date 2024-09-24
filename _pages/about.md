@@ -13,7 +13,7 @@ I am broadly interested in network science and computational epidemiology, with 
 **SNSF Postdoc Mobility Fellow (2022-2024)**
 
 
-I am worked on [Awareness Modelling in Epidemics](https://data.snf.ch/grants/grant/211129) as an SNSF Postdoc Mobility Fellow hosted by [Márton Karsai]([https://martonkarsai.com](https://www.martonkarsai.com/) at DNDS, CEU, Vienna. Recent manuscripts on this topic include a genetic data-driven [\[1\]](https://arxiv.org/abs/2406.09983) and a network theoretic [\[2\]](https://arxiv.org/abs/2409.01384) approach.
+I am worked on [Awareness Modelling in Epidemics](https://data.snf.ch/grants/grant/211129) as an SNSF Postdoc Mobility Fellow hosted by [Márton Karsai](https://www.martonkarsai.com/) at DNDS, CEU, Vienna. Recent manuscripts on this topic include a genetic data-driven [\[1\]](https://arxiv.org/abs/2406.09983) and a network theoretic [\[2\]](https://arxiv.org/abs/2409.01384) approach.
 
 
 **PhD (2017-2022)**
