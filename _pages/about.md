@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+I am broadly interested in computational epidemiology and network science, with a special focus on wasterwater-based epidemiology. As of September 2024, I am a FWF-funded Cluster of Excellence: ["Microbiomes Drive Planetary Health”](https://microplanet.at/) postdoc at the [Bergthaler Lab](https://bergthalerlab.org/).
 
-I am interested in problems concerning networks that are challenging either from a mathematical modelling or an algorithmic perspective, or both. At the moment I am working on [Proximity-Sensitive Awareness in Epidemic Modelling](https://data.snf.ch/grants/grant/211129) as a Postdoc Mobility Fellow.
-
-
-Thesis
+SNSF Postdoc Mobility Fellow
 ======
-My thesis is on the source idenitfication problem; the goal is to design efficient algorithms that find the first infected individual (also called patient zero) during an epidemic, based on sparse measurements about who got infected and when.
+
+I am worked on [Awareness Modelling in Epidemics](https://data.snf.ch/grants/grant/211129) as an SNSF Postdoc Mobility Fellow. Recent manuscript on this topic include a genetic data-driven ([\[1\]](https://arxiv.org/abs/2406.09983) and a network theoretic ([\[2\]](https://arxiv.org/abs/2409.01384) approaches.
+
+
+PhD Thesis
+======
+My thesis was on the source idenitfication problem; the goal is to design efficient algorithms that find the first infected individual (also called patient zero) during an epidemic, based on sparse measurements about who got infected and when.
 
 On the algorithmic side, I have worked on rigorously quantifying the role of adaptivity in source identification: the difference between the problem settings when the measurements are chosen adaptively vs non-adaptively. If the epidemic spreads very aggressively, the theoretical analysis ([\[1\]](https://doi.org/10.1016/j.ejc.2021.103317) and [\[2\]](https://doi.org/10.1017/jpr.2021.16)) becomes equivalent to adaptive and non-adaptive versions of the metric dimension from the combinatorics literature. If the epidemic is less aggressive, then there is more stochasticity in the problem, making the analysis more challenging [\[3\]](https://doi.org/10.1016/j.tcs.2022.02.008). Interestingly, in some cases adaptivity only plays a small role [\[1\]](https://doi.org/10.1016/j.ejc.2021.103317), whereas in others, its role is very substantial [\[3\]](https://doi.org/10.1016/j.tcs.2022.02.008).
 
