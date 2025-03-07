@@ -1,10 +1,10 @@
 ---
 title: "Distinguishing mechanisms of social contagion from local network view"
 collection: publications
-link: https://arxiv.org/abs/2406.18519
+link: https://www.nature.com/articles/s44260-025-00034-2
 excerpt: 'We propose a novel perspective on distinguishing simple and complex contagion processes at the egocentric level.'
-date: 2024-06-26
+date: 2025-03-04
 authors: 'Elsa Andres, Gergely Ódor, Iacopo Iacopini, Márton Karsai'
-venue: 'arxiv'
+venue: 'npj Complexity'
 image: 'simplecomplex.png'
 ---
