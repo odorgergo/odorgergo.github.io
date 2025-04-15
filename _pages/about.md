@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in network science and computational epidemiology, with a special focus on wasterwater-based epidemiology. As of September 2024, I am a FWF Cluster of Excellence: ["Microbiomes Drive Planetary Health”](https://microplanet.at/) postdoc at the [Bergthaler Lab](https://bergthalerlab.org/).
+I am broadly interested in network science and computational epidemiology, with a special focus on wasterwater-based epidemiology. As of September 2024, I am a FWF Cluster of Excellence: ["Microbiomes Drive Planetary Health”](https://microplanet.at/) postdoc at the [Bergthaler Lab](https://bergthalerlab.org/), Medical University of Vienna.
 
 **SNSF Postdoc Mobility Fellow (2022-2024)**
 
