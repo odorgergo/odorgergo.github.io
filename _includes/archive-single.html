@@ -40,7 +40,7 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
+        {% elsif post.collection == 'publications' or post.collection == 'visualizations' %}
          <img src="{{ post.image | prepend: '/images/' | prepend: base_path }}" height="200" width="300" align="right">
           <p>{{ post.authors }} </p>
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
