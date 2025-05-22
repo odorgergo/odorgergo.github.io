@@ -222,7 +222,7 @@ defaults:
   # _visualizations
   - scope:
       path: ""
-      type: publications
+      type: visualizations
     values:
       layout: single
       author_profile: true
