@@ -25,6 +25,6 @@ On the algorithmic side, I have worked on rigorously quantifying the role of ada
 
 More on the modelling (but still rigorous) side, I have worked on relaxing the assumption in the source identification problem that the underlying contact network is fully known to the algorithm [\[6\]](https://doi.org/10.1007%2Fs41109-023-00566-3). Also in this direction, we studied the robustness of the metric dimension to single edge changes [\[7\]](https://doi.org/10.1016/j.dam.2022.02.014). 
 
-Slightly deviating from the algorithmic source identification problem, I have worked on understanding how the location of (multiple) seeds affect the outcome of an epidemic (modelling [\[8\]](https://doi.org/10.1073/pnas.2112607118) and theory [\[9\]](https://arxiv.org/abs/2304.11971)). 
+Slightly deviating from the algorithmic source identification problem, I have worked on understanding how the location of (multiple) seeds affect the outcome of an epidemic (modelling [\[8\]](https://doi.org/10.1073/pnas.2112607118) and theory [\[9\]](https://onlinelibrary.wiley.com/doi/10.1002/jgt.23184)). 
 
 [Click here to access my thesis.](https://infoscience.epfl.ch/record/295110)
