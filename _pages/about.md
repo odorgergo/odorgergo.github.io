@@ -12,7 +12,7 @@ I am broadly interested in network science and computational epidemiology, with 
 
 **SLORA: Sick Leave On the Rise in Austria (2026-2028)**
 
-I am excited to be a co-PI on the Data:Research:Austria (ÖAW) project [Sick Leave On the Rise in Austria (SLORA)](https://slora-project.github.io/), where we study respiratory disease-related sick leave in Austria using data-driven epidemic modelling.
+I am excited to be a co-PI on the [Sick Leave On the Rise in Austria (SLORA)](https://slora-project.github.io/) project, funded by the Data:Research:Austria (ÖAW) program, where we study respiratory disease-related sick leave in Austria using data-driven epidemic modelling. The project combines administrative and survey data from the Austrian Micro Data Center, vaccination data, sick leave data, and wastewater surveillance data.
 
 **SNSF Postdoc Mobility Fellow (2022-2024)**
 
