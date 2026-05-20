@@ -10,6 +10,10 @@ redirect_from:
 
 I am broadly interested in network science and computational epidemiology, with a special focus on integrating social and biological data. As of September 2024, I am a FWF Cluster of Excellence: ["Microbiomes Drive Planetary Health”](https://microplanet.at/) postdoc at the [Bergthaler Lab](https://bergthalerlab.org/), Medical University of Vienna.
 
+**SLORA: Sick Leave On the Rise in Austria (2026-2028)**
+
+I am excited to be a co-PI on the Data:Research:Austria (ÖAW) project [Sick Leave On the Rise in Austria (SLORA)](https://slora-project.github.io/), where we study respiratory disease-related sick leave in Austria using data-driven epidemic modelling.
+
 **SNSF Postdoc Mobility Fellow (2022-2024)**
 
 
