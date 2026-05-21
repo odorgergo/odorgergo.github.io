@@ -1,12 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "PhD"
-excerpt: "PhD work"
+permalink: /phd/
 author_profile: true
-redirect_from: 
-  - /phd/
-  - /phd.html
 ---
+
 
 **PhD (2017-2022)**
 
